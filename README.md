@@ -9,28 +9,48 @@ The primary objective of this project is to showcase how networking technologies
 
 # Features
 🏠 Smart Home Network Simulation
+
 📶 Wireless IoT Device Connectivity
+
 💡 Smart Lighting Control
+
 🌡️ Automated Temperature Monitoring
+
 🚪 Smart Door Lock System
+
 📷 Home Security Surveillance
+
 🚨 Motion Detection & Alarm System
+
 🔥 Smoke Detection and Safety Alerts
+
 📱 Remote Device Management
+
 🌐 Internet-enabled Smart Devices
+
 🔒 Secure Network Communication
+
 ⚡ Energy-Efficient Home Automation
 
 # Technologies Used
 Cisco Packet Tracer
+
 Internet of Things (IoT)
+
 Wireless Networking
+
 Routers
+
 Switches
+
 Home Gateway
+
 Access Point
+
 DHCP
+
 IPv4 Addressing
+
 IoT Registration Server
 
 # Project Objectives
@@ -43,12 +63,19 @@ Learn practical implementation of IoT networking concepts.
 
 # Learning Outcomes
 Understanding IoT architecture
+
 Cisco Packet Tracer simulation
+
 Smart device networking
+
 Wireless communication
+
 IP addressing and DHCP
+
 Home automation concepts
+
 Network security basics
+
 IoT device configuration
 
 # Simulation
@@ -57,4 +84,5 @@ This project is fully implemented in Cisco Packet Tracer (.pkt) and demonstrates
 # 👨‍💻 Developed By
 
 **Muhammad Nabeel**
+
 **University Final Year / Networking Project**
